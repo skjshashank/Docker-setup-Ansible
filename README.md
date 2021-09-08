@@ -1,4 +1,5 @@
-It is an Ansible script which can perform following tasks:
+## **It is an Ansible script which can perform following tasks:**
+```
 🔹 Configure Docker
 🔹 Start and enable Docker services
 🔹 Pull the httpd server image from the Docker Hub
@@ -6,4 +7,5 @@ It is an Ansible script which can perform following tasks:
 🔹 Copy the html code in /var/www/html directory
 and start the web server
 🔹 Automatically retrieve newContainer IP and update the inventory.
+```
 
